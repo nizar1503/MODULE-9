@@ -65,15 +65,6 @@ sorter.print_list()
 ```
 
 ## OUTPUT:
-```
-Enter the number of elements: 5
-Enter the elements:
-23
-12
-45
-8
-19
-Sorted list: [8, 12, 19, 23, 45]
-````
+<img width="752" height="802" alt="image" src="https://github.com/user-attachments/assets/c0c5e3d0-9076-4dd4-994c-3b1282ed0ec7" />
 ## RESULT:
  Hence Insertion Sort using a Python class is done.
