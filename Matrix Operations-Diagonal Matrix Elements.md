@@ -40,23 +40,7 @@ for i in range(rows):
 ```
 
 ### Output:
-```
-Enter the number of rows: 3
-Enter the number of columns: 3
-Enter the matrix elements row-wise:
-Enter elements for row 1 (space-separated): 1 2 3
-Enter elements for row 2 (space-separated): 4 5 6
-Enter elements for row 3 (space-separated): 7 8 9
+<img width="1173" height="325" alt="image" src="https://github.com/user-attachments/assets/2c306adb-82da-4dbe-8627-a62d31682552" />
 
-Full Matrix:
-[1, 2, 3]
-[4, 5, 6]
-[7, 8, 9]
-
-Diagonal Elements:
-1    
-  5  
-    9
-```
 ## Result
 Hence Printd only the diagonal elements of a given matrix
