@@ -49,19 +49,6 @@ for row in C:
     print(row)
 ```
 ## OUTPUT:
-```
-Enter the number of rows: 2
-Enter the number of columns: 2
-Enter elements for Matrix A:
-Enter row 1 (space-separated): 5 8
-Enter row 2 (space-separated): 7 6
-Enter elements for Matrix B:
-Enter row 1 (space-separated): 3 2
-Enter row 2 (space-separated): 4 5
-
-Resultant Matrix C (A - B):
-[2, 6]
-[3, 1]
-```
+<img width="752" height="802" alt="image" src="https://github.com/user-attachments/assets/b8465f66-7aff-490c-9e08-3cd47460026c" />
 ## RESULT:
 Hence Matrix Subtraction of Two User-Input Matrices is done.
