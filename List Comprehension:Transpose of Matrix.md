@@ -35,13 +35,7 @@ for row in transpose:
     print(row)
 ```
 ## OUTPUT:
-```
-Enter the number of rows: 2
-Enter the number of columns: 3
-Enter the matrix elements row-wise:
-Enter elements for row 1 (space-separated): 1 2 3
-Enter elements for row 2 (space-separated): 4 5 6
-```
+<img width="1168" height="476" alt="image" src="https://github.com/user-attachments/assets/b91f96e6-afed-4e1e-80c1-df2ae605c579" />
 ## RESULT:
 Hence Computed the transpose of a matrix using list comprehension
 
