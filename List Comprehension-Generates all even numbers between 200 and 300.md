@@ -36,9 +36,6 @@ obj.display()
 ```
 
 ## OUTPUT:
-```
-Even numbers between 200 and 300:
-[200, 202, 204, ..., 298, 300]
-```
+<img width="1170" height="508" alt="image" src="https://github.com/user-attachments/assets/06e5747e-1f55-4eef-a444-9d6ea38be6b1" />
 ## RESULT:
 Hence Generated even numbers between 200 and 300 using list comprehension in a class
